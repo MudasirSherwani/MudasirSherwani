@@ -35,6 +35,12 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 
 ---
 
-![MudasirSherwani GitHub stats](https://github-readme-stats.vercel.app/api?username=MudasirSherwani&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=MudasirSherwani&show_icons=true&theme=radical)
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MudasirSherwani&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirSherwani&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
