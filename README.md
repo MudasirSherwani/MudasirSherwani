@@ -7,9 +7,9 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 - 🔭 I’m currently : student on microverse.<br>
 - 🌱 I’m currently learning JavaScript.<br>
 - 👯 I’m looking to collaborate on upcoming projects.<br>
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about HTML, CSS, C++, C# and SQL Server
-- 📫 How to reach me: 
+- 🤔 I’m looking for help with JavaScript.<br>
+- 💬 Ask me about HTML, CSS, C++, C# and SQL Server.<br>
+- 📫 How to reach me:<br>
 <p>
 <a href="https://twitter.com/mudasirsherwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mudasirsherwani' twitter" height="30" width="40" /></a><a href="https://linkedin.com/in/mudasir-ashraf-071321a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasirsherwani' linked in" height="30" width="40" /></a><a href="https://www.facebook.com/mudasir.sherwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudasirsherwani' facebook" height="30" width="40" /></a><a href="https://www.instagram.com/mudasir_ashraf9757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudasirsherwani' Instagram" height="30" width="40" /></a><a href="https://wa.me/+923326449757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mudasirsherwani' whatsApp" height="30" width="40" /></a><br/><br/><br/>
 
