@@ -21,7 +21,7 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MudasirSherwani&label=Profile%20views&color=0e75b6&style=flat" alt="MudasirSherwani profile views " /> </p><br/>
 
 
-# 💻 Languages and Tools:
+## 💻 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -30,12 +30,11 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 ![C#](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=c#&logoColor=white)
 ![Crystle Report](https://img.shields.io/badge/crystlereport-%231572B6.svg?style=for-the-badge&logo=crystlereport&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sqlserver-%23E34F26.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MudasirSherwani&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MudasirSherwani&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirSherwani&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Asp.Net](https://img.shields.io/badge/asp.net-%231572B6.svg?style=for-the-badge&logo=asp.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MudasirSherwani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![MudasirSherwani GitHub stats](https://github-readme-stats.vercel.app/api?username=MudasirSherwani&show_icons=true&theme=tokyonight)
+
+---
