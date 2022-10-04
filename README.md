@@ -1,12 +1,9 @@
-### Hi there
-
 <h1 style="font-size:36px;">Hi there, I'm Mudasir 👋</h1>
 <h3 style="font-style: italic; font-size: 18px;"> 
 Remote Full-stack web developer from Pakistan, I am available for hire or looking for a new opportunity. </h3>
 <br/>
 <img align='right' src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" width="230">
 <br/>
-
 - 🔭 I’m currently : student on microverse.<br>
 - 🌱 I’m currently learning JavaScript.<br>
 - 👯 I’m looking to collaborate on upcoming projects.<br>
