@@ -17,12 +17,12 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 
 
 ## 💻 Languages and Tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.Net Framework](https://img.shields.io/badge/dotnet-%23563D7C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Basic .NET](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=c#&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Crystle Report](https://img.shields.io/badge/crystlereport-%231572B6.svg?style=for-the-badge&logo=crystlereport&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sqlserver-%23E34F26.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![Asp.Net](https://img.shields.io/badge/asp.net-%231572B6.svg?style=for-the-badge&logo=asp.net&logoColor=white)
