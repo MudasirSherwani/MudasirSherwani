@@ -5,10 +5,10 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 <img align='right' src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" width="230">
 <br/>
 - 🔭 I’m currently : student on microverse.<br>
-- 🌱 I’m currently learning JavaScript.<br>
+- 🌱 I’m currently learning Ruby on Rails / React.<br>
 - 👯 I’m looking to collaborate on upcoming projects.<br>
-- 🤔 I’m looking for help with JavaScript.<br>
-- 💬 Ask me about HTML, CSS, C++, C# and SQL Server.<br>
+- 🤔 I’m looking for help with Ruby.<br>
+- 💬 Ask me about JavaScript, Ruby on Rails, Visual Basic .Net, HTML, CSS, and SQL Server.<br>
 - 📫 How to reach me:<br>
 <p>
 <a href="https://twitter.com/mudasirsherwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mudasirsherwani' twitter" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mudasir-sherwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mudasirsherwani' linked in" height="30" width="40" /></a><a href="https://www.facebook.com/mudasir.sherwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mudasirsherwani' facebook" height="30" width="40" /></a><a href="https://www.instagram.com/mudasir_ashraf9757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mudasirsherwani' Instagram" height="30" width="40" /></a><a href="https://wa.me/+923326449757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mudasirsherwani' whatsApp" height="30" width="40" /></a><br/><br/><br/>
