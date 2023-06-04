@@ -21,15 +21,15 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=61dbfb) 
 ![Redux](https://img.shields.io/badge/Redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=764abc)
 ![Ruby](https://img.shields.io/badge/Ruby-%23323330.svg?style=for-the-badge&logo=ruby&logoColor=9B111E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.Net Framework](https://img.shields.io/badge/dotnet-%23563D7C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Visual Basic .NET](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=c#&logoColor=white)
+![RubyOnRails](https://img.shields.io/badge/rubyonrails-%23323330.svg?style=for-the-badge&logo=rubyonrails&logoColor=9B111E)
+![Visual Basic .NET](https://img.shields.io/badge/vb.net-%23563D7C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Crystle Report](https://img.shields.io/badge/crystlereport-%231572B6.svg?style=for-the-badge&logo=crystlereport&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sqlserver-%23E34F26.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
-![Asp.Net](https://img.shields.io/badge/asp.net-%231572B6.svg?style=for-the-badge&logo=asp.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-0064A5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sqlserver-%23E34F26.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Crystle Report](https://img.shields.io/badge/crystlereport-%231572B6.svg?style=for-the-badge&logo=crystlereport&logoColor=white)
 
 ---
 
