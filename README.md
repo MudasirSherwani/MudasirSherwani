@@ -18,6 +18,8 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 
 ## 💻 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E) 
+![Redux](https://img.shields.io/badge/Redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.Net Framework](https://img.shields.io/badge/dotnet-%23563D7C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Basic .NET](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=c#&logoColor=white)
