@@ -4,7 +4,7 @@ Remote Full-stack web developer from Pakistan, I am available for hire or lookin
 <br/>
 <img align='right' src="https://cdn.dribbble.com/users/1518535/screenshots/7528356/media/e11e5b8aaa2187e4e1a7c3da0553208e.gif" width="230">
 <br/>
-- 🔭 I’m currently : student on microverse.<br>
+- 🔭 I’m currently : Student at Microverse.<br>
 - 🌱 I’m currently learning Ruby on Rails / React.<br>
 - 👯 I’m looking to collaborate on upcoming projects.<br>
 - 🤔 I’m looking for help with Ruby.<br>
